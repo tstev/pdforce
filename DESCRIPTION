@@ -1,0 +1,18 @@
+Package: pdforce
+Title: Force a Matrix to be Positive-Definite
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Tomas",
+           family = "Stevens",
+           role = c("aut", "cre"),
+           email = "t.stevens90@gmail.com")
+Description: Named after Larry Schaeffer's paper describing the method he 
+    developed to force matrices into positive-definiteness, this package 
+    provides his method and other weighted and unweighted techniques to bend a 
+    matrix to be positive-definite.
+License: GPL (>= 3)
+Encoding: UTF-8
+Language: en
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
